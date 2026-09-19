@@ -1,0 +1,3 @@
+# Personal Expense Tracker
+# Python standard libraries are used.
+# Tkinter and SQLite are included with standard Python installation.
