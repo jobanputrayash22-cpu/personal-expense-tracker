@@ -1,3 +1,5 @@
+![Personal Expense Tracker Banner](assets/personal-expense-tracker-banner.png)
+
 # Personal Expense Tracker
 
 A simple desktop-based Personal Expense Tracker developed using Python, Tkinter, and SQLite.
